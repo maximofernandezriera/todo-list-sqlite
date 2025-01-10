@@ -47,7 +47,7 @@
 		</div>
 
         <footer>
-            <span>Made with <i class="fa-solid fa-heart"></i> by <a href="https://maximofernandez.com/" target="_blank">Fafik</a></span>
+            <span>Made with <i class="fa-solid fa-heart"></i> by <a href="https://maximofernandez.com/" target="_blank">maximofernandez</a></span>
             <span><a href="https://github.com/maximofernandez/todo-list-sqlite/" target="_blank">Github</a></span>
         </footer>
 	</body>
